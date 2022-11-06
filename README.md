@@ -11,3 +11,9 @@ Step2 安装依赖
 ``` 
 yarn 
 ```
+
+Step 3 启动项目
+
+```dotnetcli
+yarn start
+```
