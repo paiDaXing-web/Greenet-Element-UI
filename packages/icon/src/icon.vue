@@ -1,5 +1,5 @@
 <template>
-    <button>icon</button>
+    <div>icon</div>
 </template>
 <script lang="ts">
  import { defineComponent } from 'vue';
